@@ -1,0 +1,6 @@
+com\siob\siob\osd\web\JakartaRestConfiguration.class
+com\siob\siob\osd\web\dao\LoginDAO.class
+com\siob\siob\osd\web\bean\LoginBean.class
+com\siob\siob\osd\web\LoginServlet.class
+com\siob\siob\osd\web\resources\JakartaEE10Resource.class
+com\siob\siob\osd\web\ProcLogin.class
