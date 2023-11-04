@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>SIOB - OSD Portal (JSP)</title>
+    <title>SIOB - OSD Portal</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="SIOB OSD Portal v1.00-231103">

@@ -58,6 +58,8 @@ public class LoginServlet extends HttpServlet {
                 HttpSession session = request.getSession();
                 session.setAttribute("usuario",usuario);
                 session.setAttribute("pwd",pass);
+                session.setAttribute("usuarioNome","Carlos Amaral");
+                session.setAttribute("usuarioPosicao","SIOB-GEINFO");
                 response.sendRedirect("loginSuccess.jsp");
             } else {
                 HttpSession session = request.getSession();
